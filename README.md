@@ -25,4 +25,5 @@ python3 QR-code-generator.py
 'QR code generated and saved as ./images/qrcode.png'
 
 **Output:**
+
 ![QRcode](./images/qrcode.png)
